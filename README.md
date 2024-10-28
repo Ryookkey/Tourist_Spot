@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+本アプリは会員が国内外問わずに、みんなにおすすめしたい観光地を投稿できるアプリです。
+投稿にコメントを残して盛り上がるもよし、旅行前のリサーチに使うもよし、世界中の観光地を知ることができるアプリです！
 
-Things you may want to cover:
+グループを作成することもできるため、国別観光地でグループ作成もできます。
+また、ユーザ同士でチャットして盛り上がることも可能です！
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+当アプリの設計書や環境などは随時更新していきます。
